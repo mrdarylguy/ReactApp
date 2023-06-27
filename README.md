@@ -2,7 +2,7 @@
 Creating a simple WebApp in React 
 
 ## Set Up commands for Apple Silicon Mac
-CLI:  ```npm create vite@latest``` 
+CLI:  ```npm create vite@latest``` \n
 Select Framework: ```React```
 Select Variant: ```Typescript```
 Install Node Package Manager: ``` cd <Project Name> ``` ```npm install```
